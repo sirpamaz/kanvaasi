@@ -1,3 +1,0 @@
-# kanvaasi
-canvas-kokeilu
-piirto
